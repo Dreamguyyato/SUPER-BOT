@@ -7,25 +7,25 @@ import fetch from 'node-fetch';
 import axios from 'axios';
 import moment from 'moment-timezone';
 
-global.botnumber = "254111728536"
+global.botnumber = "916009259402"
 global.confirmcode = ""
 
 global.owner = [
-  ['254794597254', '👑 𝐒𝐔𝐏𝐄𝐑 𝐁𝐎𝐓 𝐂𝐑𝐄𝐀𝐓𝐎𝐑👑', true],
+  ['916009259402', 'dream guy kiyo', true],
   ['254794597254', '💫𝐒𝐔𝐏𝐄𝐑 𝐁𝐎𝐓💫', true],
   ['254786827982', '💫𝐒𝐔𝐏𝐄𝐑 𝐁𝐎𝐓 💫', true],
   ['254796283064', '💫 𝐒𝐔𝐏𝐄𝐑 𝐁𝐎𝐓💫', true],
   ['254743776612', '💫 𝐒𝐔𝐏𝐄𝐑 𝐁𝐎𝐓💫', true],
 ];
 
-global.suittag = ['254794597254'];
-global.prems = ['254794597254'];
+global.suittag = ['916009259402'];
+global.prems = ['916009259402'];
 
-global.packname = '𒁂⃝ᰲĴΔ¥Đ€Ň ƤΔƤƗƗ™ ͟͞';
-global.author = '★𝐒𝐔𝐏𝐄𝐑 𝐁𝐎𝐓★';
-global.wm = '★𝐒𝐔𝐏𝐄𝐑 𝐁𝐎𝐓★';
-global.igfg = '★𝐒𝐔𝐏𝐄𝐑 𝐁𝐎𝐓★';
-global.wait = '*[❗] 𝐒𝐔𝐏𝐄𝐑 𝐁𝐎𝐓 𝐈𝐒 𝐋𝐎𝐀𝐃𝐈𝐍𝐆...*';
+global.packname = '🦄드림 가이 yato';
+global.author = '🦄드림 가이 yato';
+global.wm = '🦄드림 가이 yato';
+global.igfg = '🦄드림 가이 yato';
+global.wait = '*[❗] 🦄드림 가이 yato 𝐈𝐒 𝐋𝐎𝐀𝐃𝐈𝐍𝐆...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
 global.imagen2 = fs.readFileSync('./src/nuevobot.jpg');
